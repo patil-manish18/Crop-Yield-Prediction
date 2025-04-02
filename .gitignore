@@ -1,0 +1,8 @@
+# Model files
+*.joblib
+*.h5
+*.keras
+
+# Virtual environments
+crop_env/
+clean_env/
